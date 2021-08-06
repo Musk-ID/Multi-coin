@@ -28,4 +28,4 @@ $ git clone https://github.com/Musk-ID/Multi-coin
 $ cd Multi-coin
 $ python bot.py
 ```
-- [X] Join Trons Miner [here](https://finance.btron.site/r/49938)
+- [X] Join Jadi Sultan [here](https://rotf.lol/Cryptoshi)
